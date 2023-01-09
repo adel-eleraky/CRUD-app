@@ -6,7 +6,8 @@ A CRUD app is a specific type of software application that consists of four basi
 
 ## Demo
 
-https://icecreamapps.com/v/f24c2r9
+![Capture2](https://user-images.githubusercontent.com/79190513/211419642-28a43781-f5ae-45f3-9cb0-eecc81348d6e.PNG)
+
 
 
 ## Installation
@@ -22,5 +23,6 @@ after cloning the project download this compressed file :
 [assets.zip](https://github.com/adel-eleraky/CRUD-app/files/10377060/assets.zip)
 
 then extract the .zip file and place the assets folder in the main directory of the project 
+
 
 
