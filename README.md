@@ -6,8 +6,7 @@ A CRUD app is a specific type of software application that consists of four basi
 
 ## Demo
 
-Insert gif or link to demo
-
+https://icecreamapps.com/v/f24c2r9
 
 
 ## Installation
