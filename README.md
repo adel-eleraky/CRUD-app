@@ -16,7 +16,7 @@ https://el3raky-crud.000webhostapp.com/
 
 ## Installation
 
-open your terminal and paste
+open your Git Bash and paste
 
 ```
   git clone https://github.com/adel-eleraky/CRUD-app.git
